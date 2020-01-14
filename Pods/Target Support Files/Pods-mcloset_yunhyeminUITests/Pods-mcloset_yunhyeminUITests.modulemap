@@ -1,0 +1,6 @@
+framework module Pods_mcloset_yunhyeminUITests {
+  umbrella header "Pods-mcloset_yunhyeminUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

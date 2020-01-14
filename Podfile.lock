@@ -1,0 +1,30 @@
+PODS:
+  - Realm (3.16.2):
+    - Realm/Headers (= 3.16.2)
+  - Realm/Headers (3.16.2)
+  - RealmSwift (3.16.2):
+    - Realm (= 3.16.2)
+  - UIImageCropper (1.4.0)
+  - ZImageCropper (0.1.0)
+
+DEPENDENCIES:
+  - RealmSwift
+  - UIImageCropper
+  - ZImageCropper
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Realm
+    - RealmSwift
+    - UIImageCropper
+    - ZImageCropper
+
+SPEC CHECKSUMS:
+  Realm: 0e73b4edeb5b6a90da3d83206883b2e34e00eb38
+  RealmSwift: a81e650171ef0a5f999df1ed8d39ba8d6fce88a4
+  UIImageCropper: ab1c519018189af90b0780e1c7c9c900945b896e
+  ZImageCropper: 1a5518eea94f1ce903bbfebc860bfb023d27fc62
+
+PODFILE CHECKSUM: 89b3252976b93bdd495a1c890a0dba38c1d067ba
+
+COCOAPODS: 1.8.4
